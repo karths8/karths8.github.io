@@ -8,7 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hey! My name is Karthik Suresh and I’m currently a student at BITS Pilani Pursuing my B.E in the field of Electronics and Instrumentation
+
+My interests are the in field of Machine Learning and Deep Learning and In particular, a sub-field I’m particularly interested in is Natural Language Processing (NLP) and building intelligent systems that can interact with the environment and communicate at the levels humans do. 
+
+I am currently a Research intern at Dr. Chandan Reddy’s Lab at the Computer Science Department at Virginia Tech performing novel work regarding data engineering and implementation of Deep Learning models to achieve superior performance in code-to-code translation tasks i.e Translation of code in one programming language to another. This is an exciting new field of research that holds great potential for the future and is sure to be of immense practical use. Softwares like Github Co-pilot, which translates from natural language to equivalent code, are evidence that some exciting and highly practical research is underway in this area already!
+
+I’ve also done some work as an intern for Kizora Softwares which involved application of Deep learning principles in order to built at automated medical prescription system that aids doctors in prescribing medicines to patients on the basis of their age, symptoms, comorbidities etc. Other projects I have contributed to can be seen in the project tab above
+
+I am also the captain of the football team at my college and am a member of the IEEE student body. My hobbies include reading, playing video games and anything related to fitness or sports. If you are interested in any of my work or want to rank up in Valorant feel free to contact me!
+
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -47,4 +58,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
