@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Karthik Suresh"
   avatar           : "profile.png"
-  bio              : "Fascinated with technology in general and currently interested in Deep Learning and Natural Language Processing Techniques to built Intelligent Systems!"
+  bio              : "Fascinated with technology and currently interested in Deep Learning and Natural Language Processing Techniques to built Intelligent Systems!"
   location         : "Chennai, India"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "f20181229@hyderabad.bits-pilani.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/karths8"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/karthik-suresh-3240/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
